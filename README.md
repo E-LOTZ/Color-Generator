@@ -1,1 +1,1 @@
-Hello world 
+A simple Gradient color Generator
